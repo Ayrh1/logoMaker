@@ -4,7 +4,9 @@
     "test": "jest"
   },
   "dependencies": {
-    "inquirer": "^9.2.11",
-    "jest": "^24.9.0"
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
