@@ -8,5 +8,15 @@
   },
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "name": "logomaker",
+  "description": "## Your Task",
+  "version": "1.0.0",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
